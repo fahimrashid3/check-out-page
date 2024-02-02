@@ -1,0 +1,15 @@
+/* add Montserrat google font*/
+
+.input-primary{
+
+    padding: 30px;
+    border-radius: 5px;
+    border-color: red;
+    
+}
+
+
+/* main section related style */
+.main-container{
+    display: flex;
+}
